@@ -1,0 +1,16 @@
+D:\soft\WPF\sample\MvvmDemoApp\MvvmDemoApp\MvvmDemoApp\UnitTests\bin\Debug\UnitTests.dll
+D:\soft\WPF\sample\MvvmDemoApp\MvvmDemoApp\MvvmDemoApp\UnitTests\bin\Debug\UnitTests.pdb
+D:\soft\WPF\sample\MvvmDemoApp\MvvmDemoApp\MvvmDemoApp\UnitTests\bin\Debug\DemoApp.exe
+D:\soft\WPF\sample\MvvmDemoApp\MvvmDemoApp\MvvmDemoApp\UnitTests\bin\Debug\DemoApp.pdb
+D:\soft\WPF\sample\MvvmDemoApp\MvvmDemoApp\MvvmDemoApp\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+D:\soft\WPF\sample\MvvmDemoApp\MvvmDemoApp\MvvmDemoApp\UnitTests\obj\Debug\UnitTests.g.resources
+D:\soft\WPF\sample\MvvmDemoApp\MvvmDemoApp\MvvmDemoApp\UnitTests\obj\Debug\UnitTests.dll
+D:\soft\WPF\sample\MvvmDemoApp\MvvmDemoApp\MvvmDemoApp\UnitTests\obj\Debug\UnitTests.pdb
+D:\MyProject\MvvmDemoApp\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\MyProject\MvvmDemoApp\UnitTests\obj\Debug\UnitTests.g.resources
+D:\MyProject\MvvmDemoApp\UnitTests\obj\Debug\UnitTests.dll
+D:\MyProject\MvvmDemoApp\UnitTests\obj\Debug\UnitTests.pdb
+D:\MyProject\MvvmDemoApp\UnitTests\bin\Debug\UnitTests.dll
+D:\MyProject\MvvmDemoApp\UnitTests\bin\Debug\UnitTests.pdb
+D:\MyProject\MvvmDemoApp\UnitTests\bin\Debug\DemoApp.exe
+D:\MyProject\MvvmDemoApp\UnitTests\bin\Debug\DemoApp.pdb
